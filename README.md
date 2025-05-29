@@ -1,3 +1,5 @@
+[![View Project Documentation](https://img.shields.io/badge/view-Documentation-blue?style=for-the-badge)](https://what-is-ada.robertdelanghe.com/dev-registry/)
+
 # DevRegistry
 
 ## 1. Project Overview
@@ -171,5 +173,3 @@ Security is a key consideration for `DevRegistry`:
 This project is licensed under the MIT License - see the `LICENSE.md` file for details.
 
 ## Contributing
-
-Contributions are welcome! Please read our `CONTRIBUTING.md` guide for details on how to submit pull requests, report issues, and more. 

@@ -2,7 +2,7 @@
 
 This is the main documentation site for DevRegistry.
 
-For a quick overview, please see the main [README.md](https://github.com/YOUR_USERNAME/DevRegistry/blob/main/README.md) in the project repository.
+For a quick overview, please see the main [README.md](https://github.com/robertdelanghe/dev-registry/blob/main/README.md) in the project repository.
 
 ## Sections
 

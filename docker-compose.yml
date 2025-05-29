@@ -1,0 +1,11 @@
+version: '3.8'
+
+services:
+  devregistry:
+    # Replace with your actual image or build context
+    image: your-image-name # or build: .
+    ports:
+      - "8080:80" # Example port mapping
+    volumes:
+      - .:/app # Example volume mount
+    # Add other necessary configurations (environment variables, etc.) 
